@@ -20,4 +20,4 @@ open http://localhost:3000 in browser.
 
 Special Thanks to:
 
-https://github.com/hannahcode/wordle - for the Wordle Clone
+https://github.com/hannahcode/wordle - for the Wordle Template
